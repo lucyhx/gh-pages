@@ -5,3 +5,13 @@ _site/
 # idea
 .idea/
 *.iml
+package-lock.json
+
+.DS_Store
+node_modules/
+tmp/
+*.log
+coverage/
+yarn.lock
+
+lucyhx.github.io/
