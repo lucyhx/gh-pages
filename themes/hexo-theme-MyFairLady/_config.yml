@@ -1,0 +1,28 @@
+#title
+title: LucyXia
+# Header
+menu:
+    Home : /
+    About : /about
+    Tags : /tags
+    Archives : /archives
+# title
+header:
+    aboutHeader: Chat
+    aboutInformation: Social
+
+# author chat
+chat: Hello, I`m LucyXia. <br/>Welcome my <a href="https://lucyxia.coding.me/">BLOG</a>.
+
+# SubNav
+subnav:
+  gitHub: "https://github.com/lucyhx"
+
+# read more
+excerpt_link: ...continue reading
+
+# favicon
+favicon: https://avatars0.githubusercontent.com/u/25907649
+
+# comments
+disqus: LucyXia
